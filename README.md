@@ -67,7 +67,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [GitHub](https://github.com/Dasa1/) - The web framework used
+* [GitHub](https://github.com/Dasa1/Memory-game.git) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
