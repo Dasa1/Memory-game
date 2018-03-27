@@ -20,9 +20,7 @@ A step by step how to run and test the game.
 
 1. Download all necessarily files from:
 
-```
-* [GitHub](https://github.com/Dasa1/Memory-game.git/)
-```
+* [GitHub](https://github.com/Dasa1/Memory-game.git)
 
 2. Open index.html file in Chrome browser and you should see layout of our Matching game
 
@@ -67,7 +65,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [GitHub](https://github.com/Dasa1/Memory-game.git) - The web framework used
+ - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
