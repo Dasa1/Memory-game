@@ -21,7 +21,7 @@ A step by step how to run and test the game.
 1. Download all necessarily files from:
 
 ```
-[GitHub](https://github.com/Dasa1/Memory-game.git)
+[GitHub](https://github.com/Dasa1/Memory-game.git/)
 ```
 
 2. Open index.html file in Chrome browser and you should see layout of our Matching game
