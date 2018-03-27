@@ -4,7 +4,7 @@ Matching game is a digital version of a famous card game in which all of the car
 
 ## Getting Started
 
-These instructions will explain u how to 
+These instructions will explain how to run and test this game
 
 ### Prerequisites
 
@@ -16,25 +16,34 @@ Google Chrome
 
 ### Instructions
 
-A step by step series of examples that tell you have to get a development env running
+A step by step how to run and test the game.
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+1. Download all necessarily files from:
 
 ```
-until finished
+[GitHub](https://github.com/Dasa1/Memory-game.git)
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+2. Open index.html file in Chrome browser and you should see layout of our Matching game
 
-## Running the tests
+3. Click on any card and try to find the matching pair
 
-Explain how to run the automated tests for this system
+
+## Testing the game
+
+How to test and see everything works fine:
+
+- when you start the game and click on any card, the timer should start
+- clicking on two cards equals to the one turn and that is counted as a one move on the move counter
+- when u find a matching pair of cards, they stayed flipped over and background color turns from blue to green
+-  star rating depends on the number of the moves u take
+- after finding all matching pairs popup showns:
+  - Congratulation massage
+  - number of moves
+  - star rating
+  - options to play again or to close popup
+
+
 
 ### Break down into end to end tests
 
